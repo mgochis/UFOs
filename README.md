@@ -8,9 +8,9 @@ We designed a webpage to analysis data from UFO sightings from all over the coun
 
 By default, the webpage shows all the imported data with no filters, as shown in the following screenshot. The data can be browsed with no filter applied, but if you want to narrow your search to a specific city you use the ‘Enter a City’ field to enter the city you’re searching for and clicking enter to clicking away from the field. The table will update with results from the city you specified. You can add more filter criteria by entering something into one of the various other fields. The field can also be cleared out and the table will refresh with the data that reflects the remaining filters. 
 
-[Default_View]
-[City_Search]
-[Shape_Search]
+![Default_View](https://github.com/mgochis/UFOs/blob/1bde6356641cfedd739b860825e5ddcd47eb1c3c/static/images/Default_View.png)
+![City_Search](https://github.com/mgochis/UFOs/blob/1bde6356641cfedd739b860825e5ddcd47eb1c3c/static/images/Search_City.png)
+![Shape_Search](https://github.com/mgochis/UFOs/blob/1bde6356641cfedd739b860825e5ddcd47eb1c3c/static/images/Seach_Shape.png)
 
 ## Summary
 
